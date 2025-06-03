@@ -9,12 +9,16 @@
 
 ## 🐍 Weeks 1–2: Python Basics for Beginners
 
+### ✅ Courses
+- [ ] HarvardX: Using Python for Research  
+- [ ] Codecademy: Python 3 Basics  
+
 ### ✅ Topics to Learn
-- [ ] Understand variables and data types  
-- [ ] Learn about lists, dictionaries, strings  
-- [ ] Practice loops and conditionals (for, while, if/else)  
-- [ ] Write and use functions  
-- [ ] Read and write text and CSV files  
+- [ ] Python syntax, variables, and data types  
+- [ ] Lists, dictionaries, strings  
+- [ ] Loops and conditionals (for, while, if/else)  
+- [ ] Functions and modular code  
+- [ ] File input/output (text and CSV files)  
 
 ### 🧪 Practice Tasks
 - [ ] Write a program to reverse a DNA string  
@@ -25,11 +29,16 @@
 
 ## 💻 Weeks 3–4: Git, Linux, and Bioinformatics Foundations
 
+### ✅ Courses
+- [ ] The Carpentries: Shell & Unix Tools  
+- [ ] Codecademy: Git Course  
+- [ ] Rosalind Bioinformatics Challenges  
+
 ### ✅ Topics to Learn
-- [ ] Navigate the Linux shell (cd, ls, mkdir, etc.)  
-- [ ] Use grep, awk, and bash loops  
-- [ ] Understand Git: init, add, commit, push, pull  
-- [ ] Solve basic bioinformatics puzzles (FASTA/FASTQ parsing)  
+- [ ] Terminal navigation (cd, ls, mkdir, grep, awk)  
+- [ ] Version control: Git init, add, commit, push, pull  
+- [ ] Bioinformatics file formats: FASTA, FASTQ  
+- [ ] Practice basic bioinformatics puzzles  
 
 ### 🧪 Project
 - [ ] Build a script to:
@@ -42,12 +51,17 @@
 
 ## 📊 Weeks 5–8: Statistics & Intro to Machine Learning
 
+### ✅ Courses
+- [ ] Khan Academy: Statistics and Probability  
+- [ ] Coursera: Machine Learning by Andrew Ng  
+- [ ] YouTube: 3Blue1Brown – Essence of Linear Algebra  
+
 ### ✅ Topics to Learn
-- [ ] Mean, median, mode, standard deviation  
-- [ ] Probability and distributions  
+- [ ] Mean, median, mode, and standard deviation  
+- [ ] Probability, distributions, and confidence intervals  
 - [ ] Linear and logistic regression  
-- [ ] Overfitting, model evaluation (accuracy, precision, recall)  
-- [ ] Train/test split and basic model building  
+- [ ] Overfitting, model evaluation metrics  
+- [ ] Train/test split and basic modeling workflow  
 
 ### 🧪 Project
 - [ ] Build a logistic regression model using gene expression data  
@@ -55,14 +69,19 @@
 
 ---
 
-## 🧬 Weeks 9–12: Bioinformatics + AI in Biology
+## 🧬 Weeks 9–12: Bioinformatics Tools + AI in Biology
+
+### ✅ Courses
+- [ ] Coursera: UCSD Bioinformatics Specialization  
+- [ ] Coursera: AI for Medicine Specialization  
+- [ ] DataCamp: Data Visualization with Matplotlib/Seaborn  
 
 ### ✅ Topics to Learn
-- [ ] Understand FASTQ, VCF, BAM files  
-- [ ] Learn about sequence alignment and gene annotation  
-- [ ] Automate pipelines (Snakemake or bash)  
-- [ ] Explore AI in drug discovery, genomics, diagnostics  
-- [ ] Use matplotlib and seaborn for visualization  
+- [ ] FASTQ, VCF, and BAM file formats  
+- [ ] Sequence alignment and gene annotation  
+- [ ] Pipelines and automation (e.g., bash, Snakemake)  
+- [ ] AI in genomics, diagnostics, drug discovery  
+- [ ] Python visualization tools (matplotlib, seaborn)  
 
 ### 🧪 Final Project
 - [ ] Create an AI pipeline:
