@@ -1,84 +1,83 @@
 # ✅ AI-Bioinformatics-Learning
 
-## 🎓 12-Week Learning Calendar: AI for Bioinformatics  
+## 🎓 20-Week Guided Learning Calendar: AI for Bioinformatics  
 **Start Date:** June 3, 2025  
 **Time Commitment:** 15–20 hours/week  
-**Goal:** Learn Python, statistics, and machine learning with a biology focus. Build a portfolio and prepare for a Master’s or PhD in AI for Bioinformatics.
+**Goal:** Gain practical and theoretical foundations in Python, bioinformatics, statistics, and AI. Build projects, earn certifications, and prepare for a Master’s or PhD in AI for Bioinformatics.
 
 ---
 
 ## 🐍 Weeks 1–2: Python Basics for Absolute Beginners
 
-### 📚 Courses (Beginner-Friendly & Structured)
-- [ ] CS50’s Introduction to Programming with Python (HarvardX on edX)
-- [ ] W3Schools Python Tutorial (Quick Reference & Practice)
-- [ ] Python for Biologists by Martin Jones (Optional book, bio-focused)
+### 📚 Courses
+- [ ] CS50’s Introduction to Programming with Python (HarvardX)
+- [ ] W3Schools Python Tutorial
+- [ ] Python for Biologists (optional paid resource)
 
 ### 🔑 Topics
 - Variables, data types, input/output
 - Lists, loops, conditionals, functions
 - String manipulation
-- Reading/writing files (CSV, TXT)
+- File handling (CSV, TXT)
 
 ### 🧪 Practice
-- [ ] Write a program to:
-  - Reverse a DNA string
-  - Count A/T/G/C in a sequence
-  - Calculate GC content from a FASTA file
+- [ ] Reverse a DNA string
+- [ ] Count A/T/G/C in a sequence
+- [ ] Calculate GC content from FASTA
 
 ---
 
 ## 💻 Weeks 3–4: Git, Linux, and Bioinformatics Tools
 
 ### 📚 Courses
-- [ ] The Carpentries: Shell & Unix Tools (Hands-on, biology context)
-- [ ] Codecademy: Git Course (Beginner-friendly)
-- [ ] Rosalind: Bioinformatics Problems (Fun, practical coding exercises)
+- [ ] The Carpentries: Shell & Unix Tools
+- [ ] Git Essentials (Codecademy/Udemy)
+- [ ] Rosalind.info (Bioinformatics puzzles)
 
 ### 💻 Project
-- [ ] Python FASTA Sequence Analyzer:
-  - Parse .fasta files
-  - Calculate GC content and reverse complements
-  - Write results to a CSV file
+- [ ] FASTA Sequence Analyzer (Python)
 
 ---
 
 ## 📊 Weeks 5–8: Statistics & Intro to Machine Learning
 
 ### 📚 Courses
-- [ ] Khan Academy: Statistics and Probability (Visual and interactive)
-- [ ] Coursera: Machine Learning by Andrew Ng (Top ML course)
-- [ ] YouTube: 3Blue1Brown – Essence of Linear Algebra (Conceptual visuals)
+- [ ] Statistics & Probability (Khan Academy)
+- [ ] Machine Learning by Andrew Ng (Coursera)
+- [ ] Essence of Linear Algebra (3Blue1Brown)
 
 ### 🤖 Project
-- [ ] Build a logistic regression model:
-  - Use gene expression or mutation data
-  - Split data into training/testing
-  - Visualize ROC curve or accuracy
+- [ ] Logistic regression on gene expression data
 
 ---
 
 ## 🧬 Weeks 9–12: Bioinformatics Tools + AI in Biology
 
 ### 📚 Courses
-- [ ] Coursera: UCSD Bioinformatics Specialization (Top-tier university)
-- [ ] Coursera: AI for Medicine Specialization (Focus on real-world medical AI)
-- [ ] DataCamp: Intro to Data Visualization with Seaborn or Matplotlib
+- [ ] UCSD Bioinformatics Specialization (Coursera)
+- [ ] AI for Medicine Specialization (Coursera)
+- [ ] Matplotlib & Seaborn (DataCamp)
 
 ### 📈 Project
-- [ ] End-to-End Pipeline:
-  - Read FASTQ or VCF files
-  - Extract and clean features
-  - Train a basic model (SVM or Logistic Regression)
-  - Visualize output using Seaborn or Matplotlib
-  - Document workflow in Jupyter + GitHub
+- [ ] Pipeline: FASTQ → ML model → Visualization
+
+---
+
+## 🧠 Weeks 13–20: Extension & Capstone
+
+### Topics
+- Genomics & Proteomics
+- Data Ethics in Bioinformatics
+- Career Planning & Grad School Applications
+
+### Final Project
+- [ ] End-to-end AI-bioinformatics project with GitHub repo, notebook, and README
 
 ---
 
 ## 🚀 By End of August 2025, You Will Have:
 
-- [ ] 6–8 certificates from Coursera, edX, Khan Academy, etc.  
-- [ ] 2–3 mini-projects published on GitHub  
-- [ ] A clean, professional GitHub portfolio  
-- [ ] Drafted resume + Statement of Purpose (SOP)  
-- [ ] A list of Master's or PhD programs to apply for in Fall/Winter 2025  
+- [ ] 6–8 professional certificates
+- [ ] 2–3 GitHub projects (Python + ML + Bioinformatics)
+- [ ] Updated resume and Statement of Purpose
+- [ ] Grad school shortlist (Fall/Winter 2025)
