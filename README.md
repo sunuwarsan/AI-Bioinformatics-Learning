@@ -1,84 +1,82 @@
-# AI-Bioinformatics-Learning
+# ✅ AI-Bioinformatics-Learning Tracker
 
-## 🎓 12-Week Learning Calendar: AI for Bioinformatics  
+## 📅 12-Week Learning Calendar  
 **Start Date:** June 3, 2025  
-**Time Commitment:** 15–20 hours per week  
-**Goal:** Learn Python, statistics, and machine learning with a focus on biology and bioinformatics. Build a portfolio and prepare applications for a Master’s and possibly a PhD in AI for Bioinformatics.
+**Time Commitment:** 15–20 hours/week  
+**Goal:** Master Python, statistics, machine learning, and bioinformatics for AI-focused graduate study.
 
 ---
 
-## 🐍 Weeks 1–2: Python Basics for Absolute Beginners
+## 🐍 Weeks 1–2: Python Basics for Beginners
 
-### 📚 Topics
-- Python syntax and variables  
-- Data types: strings, numbers, lists, dictionaries  
-- Loops and conditionals (if/else, for, while)  
-- Functions and modular code  
-- File input/output (read/write CSV and TXT files)  
+### ✅ Topics to Learn
+- [ ] Understand variables and data types  
+- [ ] Learn about lists, dictionaries, strings  
+- [ ] Practice loops and conditionals (for, while, if/else)  
+- [ ] Write and use functions  
+- [ ] Read and write text and CSV files  
 
-### 🧪 Practice
-- Write a program to:
-  - Reverse a DNA string  
-  - Count nucleotide frequencies (A, T, G, C)  
-  - Calculate GC content  
+### 🧪 Practice Tasks
+- [ ] Write a program to reverse a DNA string  
+- [ ] Count A/T/G/C in a sequence  
+- [ ] Calculate GC content from FASTA  
 
 ---
 
 ## 💻 Weeks 3–4: Git, Linux, and Bioinformatics Foundations
 
-### 📚 Topics
-- Basic shell commands (cd, ls, mkdir, grep, awk)  
-- Working with files and folders in the terminal  
-- Version control with Git (commit, push, pull, branch)  
-- Simple bioinformatics problems (FASTA, FASTQ)  
+### ✅ Topics to Learn
+- [ ] Navigate the Linux shell (cd, ls, mkdir, etc.)  
+- [ ] Use grep, awk, and bash loops  
+- [ ] Understand Git: init, add, commit, push, pull  
+- [ ] Solve basic bioinformatics puzzles (FASTA/FASTQ parsing)  
 
-### 💻 Project
-- Write a script to:
-  - Parse a FASTA file  
-  - Compute GC content  
-  - Generate reverse complements  
-  - Output results to a new file  
+### 🧪 Project
+- [ ] Build a script to:
+  - [ ] Parse FASTA files  
+  - [ ] Compute GC content  
+  - [ ] Create reverse complements  
+  - [ ] Output results  
 
 ---
 
 ## 📊 Weeks 5–8: Statistics & Intro to Machine Learning
 
-### 📚 Topics
-- Probability, distributions, mean/median/mode  
-- Standard deviation, confidence intervals  
-- Linear regression and logistic regression  
-- Overfitting and training/testing split  
-- Understanding model performance (accuracy, precision, recall)  
+### ✅ Topics to Learn
+- [ ] Mean, median, mode, standard deviation  
+- [ ] Probability and distributions  
+- [ ] Linear and logistic regression  
+- [ ] Overfitting, model evaluation (accuracy, precision, recall)  
+- [ ] Train/test split and basic model building  
 
-### 🤖 Project
-- Apply logistic regression on gene expression data  
-- Explore features and make predictions  
-- Visualize results using simple charts (bar, scatter, line)  
-
----
-
-## 🧬 Weeks 9–12: Bioinformatics Tools + AI in Biology
-
-### 📚 Topics
-- Genomic data: FASTQ, VCF, BAM  
-- Sequence alignment and annotation  
-- Pipelines and automation (e.g., Snakemake or bash scripts)  
-- Applications of AI in medicine and drug discovery  
-- Visualization with Python (matplotlib, seaborn)  
-
-### 📈 Project
-- Create an end-to-end pipeline:
-  - Input: FASTQ files  
-  - Process: filter, analyze, extract features  
-  - Model: apply ML algorithm  
-  - Output: visual summary of results  
+### 🧪 Project
+- [ ] Build a logistic regression model using gene expression data  
+- [ ] Visualize data and predictions  
 
 ---
 
-## 🚀 By End of August 2025, You Will Have:
+## 🧬 Weeks 9–12: Bioinformatics + AI in Biology
 
-- [ ] 6–8 professional certificates  
-- [ ] 2–3 GitHub mini-projects (Python + Bioinformatics + ML)  
-- [ ] A polished GitHub portfolio  
-- [ ] Resume + draft Statement of Purpose (SOP)  
-- [ ] Shortlist of Master’s/PhD programs for Fall/Winter 2025  
+### ✅ Topics to Learn
+- [ ] Understand FASTQ, VCF, BAM files  
+- [ ] Learn about sequence alignment and gene annotation  
+- [ ] Automate pipelines (Snakemake or bash)  
+- [ ] Explore AI in drug discovery, genomics, diagnostics  
+- [ ] Use matplotlib and seaborn for visualization  
+
+### 🧪 Final Project
+- [ ] Create an AI pipeline:
+  - [ ] Read and clean FASTQ data  
+  - [ ] Extract features  
+  - [ ] Train and apply ML model  
+  - [ ] Visualize and document results  
+
+---
+
+## 🎯 By End of August 2025
+
+- [ ] Earn 6–8 certificates from major platforms  
+- [ ] Complete 2–3 GitHub projects with code + documentation  
+- [ ] Build and organize your GitHub portfolio  
+- [ ] Draft your resume and Statement of Purpose (SOP)  
+- [ ] Finalize a list of Master’s/PhD programs to apply for  
