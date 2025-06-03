@@ -1,82 +1,84 @@
-# AI-Bioinformatics-Learning
+# ✅ AI-Bioinformatics-Learning
 
 ## 🎓 12-Week Learning Calendar: AI for Bioinformatics  
 **Start Date:** June 3, 2025  
-**Time Commitment:** 15–20 hours per week  
-**Goal:** Learn Python, statistics, and machine learning with a focus on biology and bioinformatics. Build a portfolio and prepare applications for a Master’s and potentially PhD in AI for Bioinformatics.
+**Time Commitment:** 15–20 hours/week  
+**Goal:** Learn Python, statistics, and machine learning with a biology focus. Build a portfolio and prepare for a Master’s or PhD in AI for Bioinformatics.
 
 ---
 
 ## 🐍 Weeks 1–2: Python Basics for Absolute Beginners
 
-### 📚 Courses
-- [ ] [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/) – excellent beginner course with exercises
-- [ ] [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-- [ ] [Python for Biologists (by Martin Jones)](https://pythonforbiologists.com/) – optional paid eBook, useful for bio people
+### 📚 Courses (Beginner-Friendly & Structured)
+- [ ] CS50’s Introduction to Programming with Python (HarvardX on edX)
+- [ ] W3Schools Python Tutorial (Quick Reference & Practice)
+- [ ] Python for Biologists by Martin Jones (Optional book, bio-focused)
 
-### 🔑 Key Topics
+### 🔑 Topics
 - Variables, data types, input/output
-- Lists, loops, if/else, functions
+- Lists, loops, conditionals, functions
 - String manipulation
 - Reading/writing files (CSV, TXT)
 
 ### 🧪 Practice
-- [ ] Write a Python program to:
+- [ ] Write a program to:
   - Reverse a DNA string
   - Count A/T/G/C in a sequence
-  - Calculate GC content
+  - Calculate GC content from a FASTA file
 
 ---
 
 ## 💻 Weeks 3–4: Git, Linux, and Bioinformatics Tools
 
 ### 📚 Courses
-- [ ] [The Carpentries: Shell & Unix Tools](https://swcarpentry.github.io/shell-novice/)
-- [ ] [Codecademy Git Course](https://www.codecademy.com/learn/learn-git)
-- [ ] [Rosalind Challenges](http://rosalind.info/problems/locations/) – Bioinformatics puzzles
+- [ ] The Carpentries: Shell & Unix Tools (Hands-on, biology context)
+- [ ] Codecademy: Git Course (Beginner-friendly)
+- [ ] Rosalind: Bioinformatics Problems (Fun, practical coding exercises)
 
 ### 💻 Project
-- [ ] FASTA Sequence Analyzer (Python):
-  - Read and parse .fasta files
-  - Calculate reverse complements
-  - Compute GC content
+- [ ] Python FASTA Sequence Analyzer:
+  - Parse .fasta files
+  - Calculate GC content and reverse complements
+  - Write results to a CSV file
 
 ---
 
 ## 📊 Weeks 5–8: Statistics & Intro to Machine Learning
 
 ### 📚 Courses
-- [ ] [Khan Academy: Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
-- [ ] [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-- [ ] [3Blue1Brown: Essence of Linear Algebra (YouTube)](https://www.youtube.com/watch?v=fNk_zzaMoSs)
+- [ ] Khan Academy: Statistics and Probability (Visual and interactive)
+- [ ] Coursera: Machine Learning by Andrew Ng (Top ML course)
+- [ ] YouTube: 3Blue1Brown – Essence of Linear Algebra (Conceptual visuals)
 
 ### 🤖 Project
-- [ ] Build a logistic regression model
+- [ ] Build a logistic regression model:
   - Use gene expression or mutation data
-  - Visualize results (e.g., ROC curve)
+  - Split data into training/testing
+  - Visualize ROC curve or accuracy
 
 ---
 
 ## 🧬 Weeks 9–12: Bioinformatics Tools + AI in Biology
 
 ### 📚 Courses
-- [ ] [Coursera: UCSD Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics)
-- [ ] [Coursera: AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine)
-- [ ] [DataCamp: Matplotlib & Seaborn](https://www.datacamp.com/courses/introduction-to-data-visualization-with-seaborn)
+- [ ] Coursera: UCSD Bioinformatics Specialization (Top-tier university)
+- [ ] Coursera: AI for Medicine Specialization (Focus on real-world medical AI)
+- [ ] DataCamp: Intro to Data Visualization with Seaborn or Matplotlib
 
 ### 📈 Project
-- [ ] End-to-end pipeline:
-  - Read and clean FASTQ files
-  - Run analysis or modeling
-  - Visualize results with Seaborn/Matplotlib
-  - Document your process clearly in Jupyter + GitHub
+- [ ] End-to-End Pipeline:
+  - Read FASTQ or VCF files
+  - Extract and clean features
+  - Train a basic model (SVM or Logistic Regression)
+  - Visualize output using Seaborn or Matplotlib
+  - Document workflow in Jupyter + GitHub
 
 ---
 
 ## 🚀 By End of August 2025, You Will Have:
 
-- [ ] 6–8 professional certificates (Coursera, edX, DataCamp, etc.)  
-- [ ] 2–3 GitHub mini-projects (Python + Bioinformatics + ML)  
-- [ ] A polished GitHub portfolio with READMEs and visualizations  
-- [ ] Updated resume + draft Statement of Purpose (SOP)  
-- [ ] A shortlist of Master’s/PhD programs (for Fall/Winter 2025)  
+- [ ] 6–8 certificates from Coursera, edX, Khan Academy, etc.  
+- [ ] 2–3 mini-projects published on GitHub  
+- [ ] A clean, professional GitHub portfolio  
+- [ ] Drafted resume + Statement of Purpose (SOP)  
+- [ ] A list of Master's or PhD programs to apply for in Fall/Winter 2025  
